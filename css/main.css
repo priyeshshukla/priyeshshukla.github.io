@@ -22,7 +22,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #333;
+    color: #000000;
 }
 a:hover {
     text-decoration: underline;
@@ -36,7 +36,7 @@ p {
     font-size: 1.5em;
     font-family:'Times New Roman', 'Times', 'Sans-Serif';
     line-height: 1.25em;
-    color: #333;
+    color: #000000;
 }
 footer {
     border-top: 1px solid #000000;
