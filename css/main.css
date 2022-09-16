@@ -3,14 +3,14 @@ body {
     width: 70%;
 }
 nav ul {
-    font-family:'Times New Roman', 'Times', 'Sans-Serif';
+    font-family:'Optima';
     padding: 0px;
     list-style: none;
     font-size: 1.5em;
     font-weight: bold;
 }
 footer ul {
-    font-family:'Times New Roman', 'Times', 'Sans-Serif';
+    font-family:'Optima';
     padding: 0px;
     list-style: none;
     font-size: 1em;
@@ -30,24 +30,24 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Times New Roman', 'Times', 'Sans-Serif';
+    font-family:'Optima';
 }
 p {
     font-size: 1.5em;
-    font-family:'Times New Roman', 'Times', 'Sans-Serif';
+    font-family:'Optima';
     line-height: 1.25em;
     color: #000000;
 }
 footer {
     border-top: 1px solid #000000;
     font-size: 1.25em;
-    font-family:'Times New Roman', 'Times', 'Sans-Serif';
+    font-family:'Optima';
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 2em;
-    font-family:'Times New Roman', 'Times', 'Sans-Serif';
+    font-family:'Optima';
 }
 
 ul.posts li {
